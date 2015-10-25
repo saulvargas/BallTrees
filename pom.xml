@@ -45,6 +45,11 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
         </dependency>
         <dependency>
             <groupId>com.github.ir-uam.RankSys</groupId>
+            <artifactId>RankSys-core</artifactId>
+            <version>0.3</version>
+        </dependency>
+        <dependency>
+            <groupId>com.github.ir-uam.RankSys</groupId>
             <artifactId>RankSys-fast</artifactId>
             <version>0.3</version>
         </dependency>
